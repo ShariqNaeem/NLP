@@ -1,0 +1,9 @@
+# NLP
+
+I have used python language and its liabrary like nltk, numpy, sklearn etc.
+
+In this program, we used DATACAMP dataset for evaluating the tweet.  In which we give the tweet to the program and this program will give output the given tweet is DONALD TRUMP tweet or JUSTIN TRUDEAU tweet.
+
+Majority of Trump tweets is in English while Trudeau tweets is in French.
+
+Dataset contains tweets of Trump in English and Trudeau tweets in French.
